@@ -100,10 +100,10 @@ background-image: linear-gradient(to right top, #fc6f03 , #fcba03, #fcf003);
 }
 .left
 {
-	margin: 15px;
+	margin: 5px;
 	float: left;
-	background-color: slateblue;
-	border:5px slateblue; 
+	background-color: rebeccapurple;
+	border:15px rebeccapurple; 
 }
 .right
 {
