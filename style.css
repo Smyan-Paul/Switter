@@ -100,10 +100,10 @@ background-image: linear-gradient(to right top, #fc6f03 , #fcba03, #fcf003);
 }
 .left
 {
-	margin: 5px;
+	margin: 15px;
 	float: left;
-	background-color: rebeccapurple;
-	border:15px rebeccapurple; 
+	background-color: slateblue;
+	border:5px slateblue; 
 }
 .right
 {
@@ -126,4 +126,9 @@ p
 button
 {
   background-color: rgb(255, 212, 93);
+}
+.button_p
+{
+  background-color: slateblue;
+  color:white;
 }
